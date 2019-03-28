@@ -1,0 +1,17 @@
+D:\Practices\AdminAPI\AdminAPI\bin\Debug\netcoreapp2.1\AdminAPI.deps.json
+D:\Practices\AdminAPI\AdminAPI\bin\Debug\netcoreapp2.1\AdminAPI.runtimeconfig.json
+D:\Practices\AdminAPI\AdminAPI\bin\Debug\netcoreapp2.1\AdminAPI.runtimeconfig.dev.json
+D:\Practices\AdminAPI\AdminAPI\bin\Debug\netcoreapp2.1\AdminAPI.dll
+D:\Practices\AdminAPI\AdminAPI\bin\Debug\netcoreapp2.1\AdminAPI.pdb
+D:\Practices\AdminAPI\AdminAPI\bin\Debug\netcoreapp2.1\Entities.dll
+D:\Practices\AdminAPI\AdminAPI\bin\Debug\netcoreapp2.1\Entities.pdb
+D:\Practices\AdminAPI\AdminAPI\obj\Debug\netcoreapp2.1\AdminAPI.csprojAssemblyReference.cache
+D:\Practices\AdminAPI\AdminAPI\obj\Debug\netcoreapp2.1\AdminAPI.csproj.CoreCompileInputs.cache
+D:\Practices\AdminAPI\AdminAPI\obj\Debug\netcoreapp2.1\AdminAPI.RazorAssemblyInfo.cache
+D:\Practices\AdminAPI\AdminAPI\obj\Debug\netcoreapp2.1\AdminAPI.RazorAssemblyInfo.cs
+D:\Practices\AdminAPI\AdminAPI\obj\Debug\netcoreapp2.1\AdminAPI.AssemblyInfoInputs.cache
+D:\Practices\AdminAPI\AdminAPI\obj\Debug\netcoreapp2.1\AdminAPI.AssemblyInfo.cs
+D:\Practices\AdminAPI\AdminAPI\obj\Debug\netcoreapp2.1\AdminAPI.RazorTargetAssemblyInfo.cache
+D:\Practices\AdminAPI\AdminAPI\obj\Debug\netcoreapp2.1\AdminAPI.csproj.CopyComplete
+D:\Practices\AdminAPI\AdminAPI\obj\Debug\netcoreapp2.1\AdminAPI.dll
+D:\Practices\AdminAPI\AdminAPI\obj\Debug\netcoreapp2.1\AdminAPI.pdb

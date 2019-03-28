@@ -1,0 +1,14 @@
+D:\Practices\AdminAPI\Entities\bin\Debug\netcoreapp2.1\Entities.deps.json
+D:\Practices\AdminAPI\Entities\bin\Debug\netcoreapp2.1\Entities.dll
+D:\Practices\AdminAPI\Entities\bin\Debug\netcoreapp2.1\Entities.pdb
+D:\Practices\AdminAPI\Entities\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Practices\AdminAPI\Entities\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Practices\AdminAPI\Entities\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+D:\Practices\AdminAPI\Entities\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+D:\Practices\AdminAPI\Entities\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache
+D:\Practices\AdminAPI\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
+D:\Practices\AdminAPI\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+D:\Practices\AdminAPI\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+D:\Practices\AdminAPI\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CopyComplete
+D:\Practices\AdminAPI\Entities\obj\Debug\netcoreapp2.1\Entities.dll
+D:\Practices\AdminAPI\Entities\obj\Debug\netcoreapp2.1\Entities.pdb
